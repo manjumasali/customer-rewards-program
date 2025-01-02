@@ -1,0 +1,6 @@
+com.java.customer
+com.java.customer.controller
+com.java.customer.exception
+com.java.customer.model
+com.java.customer.repository
+com.java.customer.service
